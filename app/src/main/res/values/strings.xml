@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Nature Emoi</string>
+
+    <!-- button menu -->
+    <string name="bottom_home_item">Accueil</string>
+    <string name="bottom_collection_item">Collection</string>
+    <string name="bottom_add_plant_item">Ajouter</string>
+
+    <!-- page d'accueil -->
+    <string name="home_page_title">A découvrir</string>
+    <string name="home_page_last_plant_selection">Dernières plantes</string>
+
+    <!-- page collection -->
+    <string name="collection_page_titre">Ma collection</string>
+
+    <!-- page d'Ajout de plantes -->
+    <string name="add_plant_page_title">Ajout d\'une plante</string>
+    <string name="add_plant_page_upload_button">Charger Image</string>
+    <string name="add_plant_page_name_input">@string/item_plant_name</string>
+    <string name="add_plant_page_description_input">@string/item_plant_description</string>
+
+    <string-array name="add_plant_page_grow_spinner_input">
+        <item>Croissance : Lente</item>
+        <item>Croissance : Moyenne</item>
+        <item>Croissance : Rapide</item>
+    </string-array>
+
+    <string-array name="add_plant_page_water_spinner_input">
+        <item>Consommation : Faible</item>
+        <item>Consommation : Moyenne</item>
+        <item>Consommation : Elevee</item>
+    </string-array>
+
+    <string name="add_plant_page_confirm_button">Confirmer</string>
+
+    <!-- Fenetre Popup de details -->
+    <string name="popup_plant_name">Plant Name</string>
+    <string name="popup_plant_description_title">Description</string>
+    <string name="popup_plant_description_subtitle">Petit description</string>
+    <string name="popup_plant_grow_title">Croissance</string>
+    <string name="popup_plant_grow_subtitle">Lente</string>
+    <string name="popup_plant_water_title">Consomation Eau</string>
+    <string name="popup_plant_water_subtitle">Faible</string>
+
+    <!-- Plante customise -->
+    <string name="item_plant_name">Nom de la plante</string>
+    <string name="item_plant_description">Description de la plante</string>
+
+</resources>
