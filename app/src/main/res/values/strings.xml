@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Nature Emoi</string>
 
-    <!-- button menu -->
+    <!-- button menu app -->
     <string name="bottom_home_item">Accueil</string>
     <string name="bottom_collection_item">Collection</string>
     <string name="bottom_add_plant_item">Ajouter</string>
